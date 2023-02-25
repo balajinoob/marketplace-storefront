@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "FpGotWFuf8iPJGMi8zXpvgXeR3pkkZ2sfp6H3cxGH7JZ"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_ldqGacNrDqq7EJUp1e1MtWA4TsoyfcZycDw",
+  "serviceFee": 0,
+  "currencyOption": "SOL",
+  "name": "BJHSDDJGHSFGHFSHG",
+  "logo": "https://collections.mirrorworld.fun/1677342631765-JAVA SYLABBES.png"
 }
